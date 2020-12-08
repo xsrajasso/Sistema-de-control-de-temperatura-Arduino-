@@ -1,1 +1,1 @@
-Este programa no fue creado por mi autoría sino por M.C. Francisco Javier de la Garza Salinas. Si desea contactarse con él puede visitar su pagina web http://jdelagarza.fime.uanl.mx/
+Este programa no fue creado por mi autoría sino por M.C. Francisco Javier de la Garza Salinas y ha sido editado en ocasiones para probar distintos resultados al intentar controlar la temperatura. Si desea contactarse con él puede visitar su pagina web http://jdelagarza.fime.uanl.mx/
